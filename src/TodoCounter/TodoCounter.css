@@ -1,0 +1,15 @@
+.TodoCounter {
+  font-size: 40px;
+  text-align: center;
+  margin: 0;
+  padding: 48px;
+  font-weight: normal;
+  font-family: 'Avenir Black';
+  font-style: bold;
+  color: whitesmoke;
+}
+
+.TodoCounter span {
+  font-weight: bold;
+  color: gold;
+}
