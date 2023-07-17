@@ -8,7 +8,7 @@
 - Almacenamiento local: Guarda tus tareas localmente, asegurando que se guarden incluso si cierras la aplicación.
 - Interfaz simple e intuitiva:  Facilita la navegación y la gestión de tareas.
   
-## Tecnologias que implementa: :point_down:**
+## Tecnologias que implementa: :point_down:
 - HTML
 - CSS
 - Javascript
