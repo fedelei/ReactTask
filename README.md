@@ -1,6 +1,6 @@
 # App de Tareas (To-Do list)
 
-:hammer: Aplicación desarrollada con **ReactJs** para la gestión de Tareas pendientes. Para probarla, ingresando a [Task App](https://fedelei.github.io/ReactTask/).
+:hammer: Aplicación desarrollada con **ReactJs** para la gestión de Tareas pendientes. Para probarla, ingrese a [Task App](https://fedelei.github.io/ReactTask/).
 
 La App presenta las siguientes funcionalidades:
 - Añadir tareas: Agrega nuevas tareas a tu lista.
